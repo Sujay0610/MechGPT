@@ -22,5 +22,4 @@ email-validator
 passlib[bcrypt]
 python-jose[cryptography]
 supabase
-postgresql-adapter
 psycopg2-binary
