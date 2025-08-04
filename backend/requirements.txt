@@ -3,7 +3,7 @@ uvicorn[standard]
 python-multipart
 llama-parse
 llama-index
-pinecone-client
+pinecone
 sentence-transformers
 pydantic
 python-dotenv
